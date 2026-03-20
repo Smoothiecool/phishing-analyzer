@@ -1,0 +1,52 @@
+Subject: URGENT: Action Required - Account Suspended
+From: Security Team <security@banc-update-secure.com>
+To: victim@example.com
+Reply-To: attacker-dropbox@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4875514092916128843=="
+
+--===============4875514092916128843==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear User,
+
+We have detected unauthorized login attempts on your account.=20
+Your account has been SUSPENDED pending immediate verification.=20
+
+Please review the attached invoice and verify your identity using the QR code=
+ below.=20
+If you do not complete this verification within 24 hours, your account will b=
+e permanently deleted.
+
+You can also use this secure link:=20
+http://bit.ly/3JZTc5a
+
+Thank you,
+IT Security
+
+--===============4875514092916128843==
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="verify_auth.png"
+MIME-Version: 1.0
+
+iVBORw0KGgoAAAANSUhEUgAAAMgAAADIAQMAAACXljzdAAAABlBMVEX///8AAABVwtN+AAAACXBI
+WXMAAA7EAAAOxAGVKw4bAAABi0lEQVRYhdWYsZGEMAxFxRAQUoJLcWdnSnMpLoGQgEH3v2TY3bvZ
+GOHAMH6Jhb++ZES+jqIcMm54H+zd5yMA+bENDrrNuohMWsuwcyk4GVVbEcxVDo9qn1WXJxDGU7E6
+tScRrK1ZdZcE7TyBuHb2aaX4/RQ+VHUj8WwkyQsUkqDrjzyNSV4jwz02zPJvxCOMp3FCPLpPlpMr
+oopNMOh55h50EvPrRu2EJuM2t+7XPAUpx0gioYln5cuvs56ncD+xr0z3gCsjJ1tesJZYDSMTukda
+TNeIBE++m0IiE3z/NelxRmWdB7nEJ3zS+VABazlkblJik7LDQ/RyvjftRCas6MndozsftZN7t3Ez
+ufo3+Bt2za88295jk74G50P/dtbtEpz40/yatS/7KVy3qZjEh3V26p2dmNBjk2IS94rtkXiHL6FJ
+PwV570fhfNet4FbSs5H+dgiz0fcuDyGMaaI20CPZH4wHEHcSVEBxy/7ricGIaWfoN5Kz26glNunZ
+iOpdeQqoL6adJTb5On4BzqKUXe/Tm4IAAAAASUVORK5CYII=
+
+--===============4875514092916128843==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice_overdue.pdf"
+MIME-Version: 1.0
+
+VGhpcyBpcyBhIGZha2UgYXR0YWNobWVudCB0byB0ZXN0IFNIQS0yNTYgaGFzaGluZy4=
+
+--===============4875514092916128843==--
